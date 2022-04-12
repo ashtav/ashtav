@@ -1,5 +1,5 @@
 ### Hi... I'm Ashta
-Introverted personality, love the art of design, photo editing, video editing and music maker. I can play several instruments, but piano is my favorite.
+Introverted personality, love the art of design, photo editing, video editing and music maker. I can play several instruments, but piano is my favorite. I'm currently working as a mobile app developer in a tech company and studying 3D Modeling and Machine Learning.
 
 ### me.js
 
