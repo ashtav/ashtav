@@ -9,7 +9,7 @@ const profile = {
     technologies: {
         langs: ["PHP", "JavaScript", "Dart", "Python"],
         frameworks: ["Codeigniter", "Laravel", "NodeJS", "VueJS", "NuxtJS", "Flutter", "Django", "Flask"],
-        databases: ["MySQL", "SQLite", "PostgreSQL", "MongoDB", "Firebase"]
+        databases: ["MySQL", "SQLite", "Firebase"]
     },
     tools: {
         adobe: ["Photoshop", "Illustrator", "Premiere Pro"],
